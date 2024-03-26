@@ -1,0 +1,14 @@
+h1{
+    color: crimson;
+}
+.ubuntu-light {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  .container-fluid{
+    /*background-color: aqua;
+    margin: 5px;
+    width: 600px;
+    height: 200px;*/
+  }
